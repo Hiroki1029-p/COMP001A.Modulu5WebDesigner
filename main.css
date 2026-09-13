@@ -136,3 +136,33 @@ footer{
     width: 600px;
  }
 
+/* Events*/
+#Event {
+    text-align: center; 
+    padding: 2px auto;
+    justify-content: center;
+    width: 600px;
+    padding: 2px auto;
+    margin: auto;
+ }   
+
+ #Event h2 {
+    text-align: center; 
+    background-color: blue;
+    color: lightgrey;
+    padding: 2px auto;
+    margin: 60px auto;
+    justify-content: center;
+    width: 600px;
+    font-size: 40px;
+}
+
+#Event p {
+  background-color: white;
+    color:black;
+    text-align: center;
+    padding: 0.5em;
+    justify-content: center
+    }
+
+ 
